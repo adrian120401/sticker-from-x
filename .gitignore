@@ -1,0 +1,7 @@
+.tools/
+.tls/
+__pycache__/
+node_modules/
+dist/
+.vercel/
+.env*

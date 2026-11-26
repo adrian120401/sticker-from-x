@@ -1,0 +1,5 @@
+.tools/
+.tls/
+dist/
+node_modules/
+.env*
